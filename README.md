@@ -32,14 +32,6 @@ High-performance stochastic process simulation library, focusing on numerical si
 - Stochastic processes: Brownian motion, α-stable Lévy process, Fractional Brownian motion, Poisson process, etc.
 - Feature-based extensible design, easy to add new stochastic processes
 
-### [DiffusionX.jl](https://github.com/tangxiangong/DiffusionX.jl)
-
-Julia implementation of DiffusionX, focusing on high-performance simulation of stochastic processes.
-
-- 🔢 Leveraging Julia's high-performance numerical computing capabilities
-- 📈 Type-stable implementation ensuring optimal performance
-- 🧮 Support for the same stochastic processes and distributions as DiffusionX
-
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-three-chi-50.vercel.app/api/top-langs/?username=tangxiangong&langs_count=8&hide=javascript,html,css,jupyter%20notebook,scss,tex,stylus,pug,vue,typescript"/>
