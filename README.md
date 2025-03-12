@@ -41,9 +41,12 @@ Julia implementation of DiffusionX, focusing on high-performance simulation of s
 - 🧮 Support for the same stochastic processes and distributions as DiffusionX
 
 ## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-three-chi-50.vercel.app/api/top-langs/?username=tangxiangong&langs_count=8&hide=javascript,html,css,jupyter%20notebook,scss,tex,stylus,pug,vue,typescript"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tangxiangong&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-chi-50.vercel.app/api?username=tangxiangong&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔗 Contact Me
