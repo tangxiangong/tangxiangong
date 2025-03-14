@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&langs_count=5&hide=javascript,html,css,jupyter%20notebook,scss,tex,stylus,pug,vue,typescript"/>
+</div>
+
 ## 🚀 About Me
 
 I'm a developer passionate about programming, focusing on high-performance computing. I have a strong interest in `Rust` and `Julia`, dedicated to building efficient and reliable software solutions.
@@ -31,15 +35,6 @@ High-performance stochastic process simulation library, focusing on numerical si
 - Random number generation: Normal distribution, Uniform distribution, Exponential distribution, Poisson distribution, α-stable distribution
 - Stochastic processes: Brownian motion, α-stable Lévy process, Fractional Brownian motion, Poisson process, etc.
 - Feature-based extensible design, easy to add new stochastic processes
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-three-chi-50.vercel.app/api/top-langs/?username=tangxiangong&langs_count=8&hide=javascript,html,css,jupyter%20notebook,scss,tex,stylus,pug,vue,typescript"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-three-chi-50.vercel.app/api?username=tangxiangong&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🔗 Contact Me
 
