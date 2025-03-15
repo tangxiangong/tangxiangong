@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-F05032?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
 
 <div align="center">
@@ -16,8 +15,7 @@ I'm a developer passionate about programming, focusing on high-performance compu
 
 ## 💻 Tech Stack
 
-- **Programming Languages**: Rust, Julia, C++, Python
-- **Web Development**: Axum
+- **Programming Languages**: Rust, Julia, C/C++, Python
 - **Scientific Computing**: Stochastic Process Simulation, Diffusion Models, Numerical methods for PDEs
 
 ## 🔭 Main Projects
