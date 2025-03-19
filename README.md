@@ -13,11 +13,6 @@
 
 I'm a developer passionate about programming, focusing on high-performance computing. I have a strong interest in `Rust` and `Julia`, dedicated to building efficient and reliable software solutions.
 
-## 💻 Tech Stack
-
-- **Programming Languages**: Rust, Julia, C/C++, Python
-- **Scientific Computing**: Stochastic Process Simulation, Diffusion Models, Numerical methods for PDEs
-
 ## 🔭 Main Projects
 
 ### [DiffusionX](https://github.com/tangxiangong/diffusionx)
