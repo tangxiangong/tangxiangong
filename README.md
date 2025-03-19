@@ -1,4 +1,4 @@
-# 👋 Hello, I'm tangxiangong
+# 👋 Hello
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-F05032?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
