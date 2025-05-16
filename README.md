@@ -57,7 +57,7 @@ As a numerical computing enthusiast, I'm dedicated to solving complex scientific
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,html,css,jupyter%20notebook,scss,tex,stylus,pug,typescript,vue" alt="tangxiangong's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,html,css,jupyter%20notebook,scss,stylus,pug,typescript,vue" alt="tangxiangong's Top Languages" />
 </div>
 
 
