@@ -1,26 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm @tangxiangong
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Scientific+Computing+Enthusiast;Numerical+Analysis+Focus;Rustacean" alt="Typing SVG" />
-
 </div>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-## 🧑‍💻 About Me
-
-> I'm a developer passionate about programming and scientific computing, focusing on numerical analysis, simulation, and scientific computation.
-
-<details>
-<summary>More about me...</summary>
-<br>
-As a numerical computing enthusiast, I'm dedicated to solving complex scientific problems with efficient algorithms. My coding style emphasizes performance and precision while maintaining clear, readable structure.
-</details>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-## 🔧 Programming Languages
 
 <div align="center">
 
@@ -33,8 +14,6 @@ As a numerical computing enthusiast, I'm dedicated to solving complex scientific
 </p>
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 ## 🔭 Main Projects
 
 <div align="center">
@@ -42,9 +21,6 @@ As a numerical computing enthusiast, I'm dedicated to solving complex scientific
 <p>High-performance stochastic process simulation library, focusing on numerical simulation of diffusion processes.
 </p>
 </div>
-
-- 🦀 Multi-threaded high-performance library developed in Rust
-- 🐍 Python bindings provided through PyO3
 
 **Key Features**:
 - Random number generation: Normal distribution, Uniform distribution, Exponential distribution, Poisson distribution, α-stable distribution
@@ -67,13 +43,6 @@ As a numerical computing enthusiast, I'm dedicated to solving complex scientific
   <a href="mailto:tangxiangong@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://space.bilibili.com/254144429">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
 </div>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<div align="center">
-  <p><i>"The art of numerical algorithms is solving infinite mathematical problems with finite computational resources."</i></p>
-</div> 
