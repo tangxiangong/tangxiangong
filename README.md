@@ -55,11 +55,7 @@ As a numerical computing enthusiast, I'm dedicated to solving complex scientific
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&layout=compact&theme=tokyonight&langs_count=6&hide=javascript,html,css,jupyter%20notebook,scss,stylus,pug,typescript,vue" alt="tangxiangong's Top Languages" />
-</div>
-
+![tangxiangong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=javascript,html,css,jupyter%20notebook,scss,stylus,pug,typescript,vue)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## 📫 Contact
