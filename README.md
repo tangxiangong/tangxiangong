@@ -31,7 +31,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## 📊 GitHub Stats
-![tangxiangong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&theme=vue&show_icons=true&hide_border=true&layout=compact&hide=html,css,jupyter%20notebook,scss,stylus,pug,vue,typescript)
+![tangxiangong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&theme=vue&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook)
 
 
 ## 📫 Contact
