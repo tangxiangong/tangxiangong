@@ -30,6 +30,21 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+<div align="center">
+<h3><a href="https://github.com/tangxiangong/bibcitex">📚 BibciteX</a></h3>
+<p>Modern BibTeX reference management tool built with Rust and Dioxus, providing quick citation access and cross-application paste functionality.
+</p>
+</div>
+
+**Key Features**:
+- One-click citation copying for seamless workflow integration
+- Cross-application paste support
+- Support for multiple BibTeX entry types (Article, Book, Thesis, InBook, InCollection, Misc, TechReport, InProceedings, etc.)
+- Smart search and filtering capabilities
+- Available for macOS (Apple Silicon & Intel) and Windows (ARM64 & x86_64)
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ## 📊 GitHub Stats
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&theme=vue&show_icons=true&layout=compact&hide=jupyter%20notebook,css)
 
