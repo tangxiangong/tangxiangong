@@ -17,7 +17,7 @@
 ## 🔭 Main Projects
 
 <div align="center">
-<h3><a href="https://github.com/tangxiangong/diffusionx">🦀 DiffusionX</a></h3>
+<h3><a href="https://github.com/tangxiangong/diffusionx">DiffusionX</a></h3>
 <p>High-performance stochastic process simulation library, focusing on numerical simulation of diffusion processes.
 </p>
 </div>
@@ -31,8 +31,10 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div align="center">
-<h3><a href="https://github.com/tangxiangong/bibcitex">📚 BibciteX</a></h3>
-<p>Modern BibTeX reference management tool built with Rust and Dioxus, providing quick citation access and cross-application paste functionality.
+<h3><a href="https://github.com/tangxiangong/bibcitex">
+    <img src="assets/bibcitex.png" alt="BibCitex" width="100" height="100"/>
+</a></h3>
+<p>BibTeX reference citation tool built with Rust and Dioxus, providing quick citation access and cross-application paste functionality.
 </p>
 </div>
 
