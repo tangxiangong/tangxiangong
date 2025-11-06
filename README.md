@@ -20,6 +20,12 @@
 <h3><a href="https://github.com/tangxiangong/diffusionx">DiffusionX</a></h3>
 <p>High-performance stochastic process simulation library, focusing on numerical simulation of diffusion processes.
 </p>
+<p align="center">
+<a href="https://crates.io/crates/diffusionx"> <img alt="Crates.io Version" src="https://img.shields.io/crates/v/diffusionx?style=for-the-badge"> </a>
+<a href="https://docs.rs/diffusionx"> <img alt="docs.rs" src="https://img.shields.io/docsrs/diffusionx?style=for-the-badge"> </a>
+<img alt="License: MIT OR Apache-2.0" src="https://img.shields.io/crates/l/diffusionx?style=for-the-badge">
+<img alt="Downloads" src="https://img.shields.io/crates/d/diffusionx?style=for-the-badge">
+</p>
 </div>
 
 **Key Features**:
@@ -36,6 +42,14 @@
 </a></h3>
 <p>BibTeX reference citation tool built with Rust and Dioxus, providing quick citation access and cross-application paste functionality.
 </p>
+<p>
+    <a href="https://github.com/tangxiangong/bibcitex/releases">
+      <img src="https://img.shields.io/github/v/release/tangxiangong/bibcitex?style=for-the-badge&logo=github&color=blue" alt="GitHub Release">
+    </a>
+    <a href="https://github.com/tangxiangong/bibcitex/blob/main/LICENSE-MIT">
+      <img src="https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue?style=for-the-badge" alt="License">
+    </a>
+  </p>
 </div>
 
 **Key Features**:
