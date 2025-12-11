@@ -61,9 +61,6 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-## 📊 GitHub Stats
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxiangong&show_icons=true&layout=compact&hide=jupyter%20notebook,css)
-
 ## 📫 Contact
 
 <div align="center">
